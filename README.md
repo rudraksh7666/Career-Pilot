@@ -2,8 +2,6 @@
 
 One Streamlit app with seven Gemini-powered tools that help students and early-career professionals with the job search, from the resume to the interview and the learning plan afterwards.
 
-> Capstone project for my BCA (Hons) in Artificial Intelligence.
-
 ## Features
 
 | Tool | What it does |
